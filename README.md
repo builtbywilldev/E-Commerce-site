@@ -57,15 +57,4 @@ Silent Prototype // Frontend Portfolio Initiative
 
 ---
 
-## 🏷️ Tags
-
-`html` `css3` `javascript` `flexbox` `frontend` `responsive` `ecommerce` `portfolio-project`
-
----
-
-## 📜 License
-
-MIT — use it, remix it, ship it.
-
----
 
